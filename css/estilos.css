@@ -39,7 +39,14 @@ background: #1e1f24;
     font-size: 20px;
 }
 
+
 #post{
-background: #fff;
-padding: 1em;
+    background: #fff;
+    padding: 1em;
+    }
+#footer{
+    background: fixed #777;
+    color: white;
+    text-align: center;
+    padding: 0.5rem;
 }
